@@ -214,7 +214,6 @@ This repository showcases my comprehensive journey through the **IBM Data Analys
 ├── 📂 9. Python Fundamentals/
 │   └── 📂 Labs/               # Python programming basics
 │
-├── 📜 LICENSE
 └── 📜 README.md
 ```
 
