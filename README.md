@@ -224,23 +224,6 @@ This repository showcases my comprehensive journey through the **IBM Data Analys
 2. **Check Technical Skills**: Examine SQL queries, Python notebooks, and dashboard implementations
 3. **View Outputs**: Screenshots and GIFs demonstrate practical application skills
 
-### For Fellow Learners:
-1. **Study Structure**: Follow the learning path from basics to advanced topics
-2. **Practice with Labs**: Use the lab notebooks for hands-on practice
-3. **Reference Cheat Sheets**: Quick guides for each topic are available
-
-### For Developers:
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/IBM-Data-Analyst-Portfolio.git
-
-# Navigate to specific projects
-cd "IBM-Data-Analyst-Portfolio/1. Data Analysis with Python/Final Project"
-
-# Open Jupyter notebooks
-jupyter notebook House_Sales_in_King_Count_USA.ipynb
-```
-
 ## 📈 Key Achievements
 
 ✅ **8 Professional Courses** completed with hands-on projects  
@@ -257,17 +240,14 @@ This portfolio represents mastery in:
 - Python for Data Science and AI
 - SQL and Database Management
 - Data Visualization and Dashboard Creation
+- Microsoft Excel
 - Generative AI for Data Analytics
+- Data Analyst Career Guide and Interview Preparation
 
 ## 🫱🏿‍🫲🏿 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/WillieConway)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Willie-Conway)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=about.me&logoColor=white)](https://willie-conway.github.io/Portfolio.io/)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketh-ks-181962273/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sankethks27)
 
 ## 🙏🏿 Acknowledgments
 
@@ -278,5 +258,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ **If you find this portfolio helpful, please give it a star!** ⭐
-
-*Last updated: December 2025*
