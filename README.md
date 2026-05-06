@@ -12,24 +12,6 @@
 
 This repository showcases my comprehensive journey through the **IBM Data Analyst Professional Certificate** program. It contains hands-on projects, labs, cheat sheets, and final assignments across 8 core courses, demonstrating proficiency in data analysis, visualization, SQL, Python, and business intelligence tools.
 
-<p float="left">
-    <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Portfolio/blob/7420c37c7b115ba18d2e6310edf55d7334829985/Data%20Visualizatiuon%20with%20Python/Labs/Add%20Interactivity%20-%20User%20Input%20and%20Callbacks/Airline%20Performance%20Dashboard.gif" width="300" />
-    <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Portfolio/blob/7420c37c7b115ba18d2e6310edf55d7334829985/Data%20Visualizatiuon%20with%20Python/Labs/Add%20Interactivity%20-%20User%20Input%20and%20Callbacks/Total%20number%20of%20flights%20to%20the%20destination%20state%20split%20by%20reporting%20airline.gif" width="300" />
-    <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Portfolio/blob/be0b6175c91f7437ebb11095fbdab43eb90de7d7/Data%20Visualizatiuon%20with%20Python/Labs/Airline%20Dashboard/Airline_Dashboard.gif" width="300" />
-    <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Portfolio/blob/be0b6175c91f7437ebb11095fbdab43eb90de7d7/Data%20Visualizatiuon%20with%20Python/Labs/Austraila%20Wildfire%20Dashboard/Australia%20Wildfire%20Dashboard.gif" width="300" />
-    <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Portfolio/blob/be0b6175c91f7437ebb11095fbdab43eb90de7d7/Data%20Visualizatiuon%20with%20Python/Labs/Create%20Dashboard%20using%20Plotly%20and%20Dash/Automobile%20Sales%20Statistics%20Dashboard.gif" width="300" />
-    <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Portfolio/blob/be0b6175c91f7437ebb11095fbdab43eb90de7d7/Data%20Visualizatiuon%20with%20Python/Labs/Dash%20Components/Flight%20Delaty%20Time%20Statistics.gif" width="300" />
-    <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Portfolio/blob/596dcbdde202b10dbd5a66b3b731b863e256b419/IBM%20Data%20Analyst%20Capstone%20Project/Labs/Building%20a%20Dashboard/Lab%2026%20-%20Option%20B%20-%20Building%20A%20Dashboard%20With%20Google%20Looker%20Studio/Survey_Dashboard.png" width="300" />
-    <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Portfolio/blob/9064d670d63f81972017fed3e6d9acc281129bde/Data%20Analysis%20with%20Python/Final%20Project/Screenshots/Question%205.png" width="300" />
-    <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Portfolio/blob/9064d670d63f81972017fed3e6d9acc281129bde/Data%20Analysis%20with%20Python/Final%20Project/Screenshots/Question%204.png" width="300" />
-</p>
-
-<p float="left">
-    <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Portfolio/blob/420cc03ab5d7b89c2ef0a67e0dba4e34ccc0fe83/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Screenshots/Create%20a%20Sunburst%20Chart.png" width="300" />
-    <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Portfolio/blob/199ac1b60a4c7f81803a873e9e3d99a35d640815/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Screenshots/Create%20a%20Scatter%20Chart.png" width="300" />
-    <img src="https://github.com/Willie-Conway/IBM-Data-Analyst-Portfolio/blob/199ac1b60a4c7f81803a873e9e3d99a35d640815/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Screenshots/Configuring%20a%20dashboard%20layout%20in%20Excel.png" width="300" />
-</p>
-
 ## 📚 Course Portfolio Structure
 
 ### 1. 🐍 **Data Analysis with Python**
