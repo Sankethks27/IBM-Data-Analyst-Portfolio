@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Sankethks27/Google-Data-Analytics-Portfolio/blob/main/Google%20Data%20Analytics%20Professional%20Certificate/Google%20Data%20Analytics%20Professional%20Certificate%20-%20Credly.png" width="220">
+  <img src="https://github.com/Sankethks27/IBM-Data-Analyst-Portfolio/blob/main/IBM%20Data%20Analyst%20Professional%20Certificate/IBM%20Data%20Analyst%20Professional%20Certificate%20-%20Credly.png" width="220">
 </p>
 
 ![IBM Data Analyst](https://img.shields.io/badge/IBM-Data_Analyst-0072CE?style=for-the-badge&logo=ibm)
